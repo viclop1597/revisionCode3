@@ -29,7 +29,10 @@ for (let i = 0; i < productos.length; i++) {
   li.appendChild(d);
 }
 
-displayProductos(productos)
+displayProductos(productos){
+/* no c k acer */
+}
+
 const botonDeFiltro = document.querySelector("button");
 
 botonDeFiltro.onclick = function() {
